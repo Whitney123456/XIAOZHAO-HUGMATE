@@ -2,7 +2,7 @@ import { Routes, Route } from 'react-router-dom'
 import { ThemeProvider, createTheme } from '@mui/material'
 
 // Import pages (to be created)
-const Home = () => <div>Home Page</div>
+const Home = () => <div>你好，我是小招，我负责安慰所有快崩溃的打工人</div>
 const Comics = () => <div>Comics Page</div>
 const Submit = () => <div>Submit Page</div>
 
